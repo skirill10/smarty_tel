@@ -18,7 +18,7 @@ NAV_SCHEMA = [
 		# not an invented subset, so the unified panel never drifts from what
 		# CRM itself actually offers.
 		"id": "crm",
-		"label": "CRM",
+		"label": "Smarty Sales",
 		"icon": "users",
 		"route": "/crm",
 		"roles": ["Sales User", "Sales Manager", "Sales Master Manager", "System Manager"],
@@ -59,7 +59,7 @@ NAV_SCHEMA = [
 	},
 	{
 		"id": "chat",
-		"label": "Chat",
+		"label": "Smarty Chat",
 		"icon": "message-circle",
 		"route": "/raven",
 	},
